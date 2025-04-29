@@ -1,0 +1,11 @@
+git remote add origin https://github.com/Luanpham-code/demo-git.git"
+
+
+git add -A
+=> thêm tất cả vào Stagging
+git commit -m"message"
+=> tạo commit ( xác nhận) với 1 nội dug là message
+git push -u origin master 
+=> đẩy lần đầu ( đẩy vào publish nhánh master )
+git push
+=> đẩy commit lên remote
