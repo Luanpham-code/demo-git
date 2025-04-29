@@ -1,4 +1,4 @@
-git remote add origin https://github.com/Luanpham-code/demo-git.git"
+git remote add origin
 
 
 git add -A
